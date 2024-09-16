@@ -1,6 +1,6 @@
 # 👨‍💻 Hamada Mohamed Emam 
 
-**_Back End Engineer with two years of experience in PHP/Laravel_**
+**_Back End Engineer with Three years of experience in PHP/Laravel_**
 
 - 📧 Email: [hamada.emam.tech@gmail.com](mailto:hamada.emam.tech@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamada-emam-ab5042227/) | [WhatsApp](https://wa.me/1201079423)
@@ -29,14 +29,14 @@ A backend engineer with a passion for solving complex problems and delivering re
 
 ## 💼 Experience
 
-### Backend Laravel-PHP Engineer - **Accurate Information Technology**
+### Backend Engineer( Laravel-PHP) - **Accurate Smart solutions**
 **(09-2022 – Present | Banha, Egypt)**  
 Worked on rebuilding an outdated Oracle Shipping system, serving over 160+ companies worldwide.
 
 - Developed integrations with Shopify and Egyptian E-Invoicing.
 - Used Laravel, React, GraphQL, Pusher, and WebSocket for real-time notifications.
   
-### Backend Laravel-PHP Intern - **Accurate Information Technology**
+### Backend Laravel-PHP Intern - **Accurate Smart solutions**
 **(09-2022 – ... | Banha, Egypt)**  
 Contributed to system development, integrating with web servers, external APIs, and Oracle databases.
 
