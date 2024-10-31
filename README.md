@@ -84,3 +84,9 @@ _Fingerprint-based attendance tracking and salary management system._
 Technologies: **Laravel, Fingerprint Scanner API, Oracle Database**  
 
 ---
+
+## 💼 Certificates
+[NTI-certificate.pdf](https://github.com/user-attachments/files/17585196/NTI-certificate.pdf)
+
+
+
