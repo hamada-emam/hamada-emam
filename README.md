@@ -18,12 +18,10 @@ A backend engineer with a passion for solving complex problems and delivering re
 - **B.Sc. Information Systems**  
   **BFCAI, Banha Faculty of Computers and Artificial Intelligence**  
   *2016 - 2020 | Banha, Qalyubia, Egypt*  
-  **GPA**: 62.5%
 
 - **Web Development Specialization**  
   **NTI - National Telecommunication Institute**  
   *2022 - Cairo, Egypt*  
-  **Rate**: 84%
 
 ---
 
