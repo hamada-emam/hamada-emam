@@ -11,6 +11,7 @@ _Crafting robust, scalable, and efficient backend solutions with a passion for p
     📧 <a href="mailto:hamada.emam.tech@gmail.com">hamada.emam.tech@gmail.com</a> |
     💼 <a href="https://www.linkedin.com/in/hamada-emam-ab5042227/" target="_blank">LinkedIn</a> |
     📱 <a href="https://wa.me/1201079423" target="_blank">WhatsApp</a>
+    📍 <a href="https://hamada.emam.tech/" target="_blank">Portfolio</a>
   </p>
   <p>
     📍 Banha, Qalyubia, Egypt
