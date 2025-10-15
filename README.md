@@ -6,6 +6,8 @@ _Crafting robust, scalable, and efficient backend solutions with a passion for p
 
 ---
 
+<!-- <a href="https://www.seobility.net/en/seocheck/check?url=https%3A%2F%2Fhamada-local.emam.tech%2F"><img src="https://app.seobility.net/widget/widget.png?url=https%3A%2F%2Fhamada-local.emam.tech%2F" alt="Seobility Score for hamada-local.emam.tech"></a> -->
+
 <div align="center">
   <p>
     📧 <a href="mailto:hamada.emam.tech@gmail.com">hamada.emam.tech@gmail.com</a> |
