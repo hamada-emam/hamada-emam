@@ -7,11 +7,11 @@ Building scalable, secure, and high-performance backend systems powering logisti
 
 <div align="center">
   <p>
-    🌐 <a href="https://hamada.emam.tech" target="_blank"><strong>Portfolio</strong></a> •  
+    🌐 <a href="https://hamada.emam-tech.com" target="_blank"><strong>Portfolio</strong></a> •  
     💼 <a href="https://linkedin.com/in/hamada-emam-tech" target="_blank"><strong>LinkedIn</strong></a> •  
     🧑‍💻 <a href="https://github.com/hamada-emam-tech" target="_blank"><strong>GitHub</strong></a>  
     <br/>
-    📧 <a href="mailto:hamada@emam.tech">hamada@emam.tech</a> •  
+    📧 <a href="mailto:hamada@emam-tech.com">hamada@emam-tech.com</a> •  
     📱 <a href="https://wa.me/201201079423" target="_blank">WhatsApp</a>  
     <br/>
     📍 Banha, Egypt
